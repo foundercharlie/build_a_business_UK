@@ -4,7 +4,7 @@
 A quick intro. I'm one of the founders of [Forma](https://www.goforma.com/) and I'm passionate about helping freelancers, tinkerers and entrepreneurs figure out a way to cost effectively build and launch a business (in the UK).
 
 ## Deciding on a company structure: ##
-Ok so seriously, one of the first questions of you need to be sure you understand is [What is a Limited Company?] (https://www.goforma.com/how-to-start/what-is-a-limited-company)
+Ok so seriously, one of the first questions of you need to be sure you understand is [What is a Limited Company?](https://www.goforma.com/how-to-start/what-is-a-limited-company)
 
 Type | Description | Type of Roles
 ------------ | ------------- | -------------
